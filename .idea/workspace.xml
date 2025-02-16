@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645fce8d-0448-4e40-aec7-e38aee2a5f5e" name="Changes" comment="Readme added">
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+    <list default="true" id="645fce8d-0448-4e40-aec7-e38aee2a5f5e" name="Changes" comment="Send Email">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Contact_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Contact_me.executor": "Run",
     "Python.main.executor": "Run",
     "Python.send_email.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -118,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739715158026</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Send Email">
+      <option name="closed" value="true" />
+      <created>1739720044470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739720044470</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inital commit" />
     <MESSAGE value="Readme added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme added" />
+    <MESSAGE value="Send Email" />
+    <option name="LAST_COMMIT_MESSAGE" value="Send Email" />
   </component>
 </project>
