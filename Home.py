@@ -1,5 +1,7 @@
 import pandas
 import streamlit as st
+
+
 st.set_page_config(layout="wide")
 col1 , col2=st.columns(2)
 with col1:
@@ -8,6 +10,7 @@ with col2:
     st.title("\t Kote Phani Vikash")
     content="\n \t Hi This Vikash , Starting My programimg journey"
     st.info(content)
+
 
 content2= 'Here are the list of programs that I have built ,  Thanks for visiting my page'
 st.info(content2)
