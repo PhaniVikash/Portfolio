@@ -1,8 +1,6 @@
 import smtplib , ssl
 import os
-import dotenv
 
-dotenv.load_dotenv()
 
 
 def send_email(mess):
