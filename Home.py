@@ -8,9 +8,9 @@ with col1:
     st.image('images/Vikky.jpeg',width=350)
 with col2:
     st.title("\t Kote Phani Vikash")
-    content="\n \t Hi This Vikash , Starting My programimg journey"
+    content=("\n \t Hi This Vikash , This is the website to display all my projects "
+             "for any suggestions feel free to reach out to me .")
     st.info(content)
-
 
 content2= 'Here are the list of programs that I have built ,  Thanks for visiting my page'
 st.info(content2)
