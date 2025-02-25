@@ -1,7 +1,7 @@
 import pandas
 import streamlit as st
 
-
+# Front end code
 st.set_page_config(layout="wide")
 col1 , col2=st.columns(2)
 with col1:
@@ -12,6 +12,7 @@ with col2:
              "for any suggestions feel free to reach out to me .")
     st.info(content)
 
+# Code to add all the app data
 content2= 'Here are the list of programs that I have built ,  Thanks for visiting my page'
 st.info(content2)
 col3,empty_col,col4,em_col,col5=st.columns([1.5,0.8,1.5,0.8,1.5])
